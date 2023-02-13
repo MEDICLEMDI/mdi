@@ -1,3 +1,10 @@
+.DS_Store
+.dfx/
+build/
+target/
+.config
+.cache
+
 # Logs
 logs
 *.log
